@@ -12,7 +12,7 @@
 - Linux, Docker, Git
 
 ## 🎓 Education
-- 홍익대학교 컴퓨터공학과 공학사 (2020 - 2026)  
+- 홍익대학교 컴퓨터공학 공학사 (2020 - 2026)  
   GPA: 4.34 / 4.5
 
 ## 📜 Certifications
