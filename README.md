@@ -28,12 +28,12 @@
 
 ## 🧪 Projects
 
-### [GPT-2 Transformer 구현 및 분산 학습](https://github.com/jiseokson/MyGPT-2) (2025.03 - 2026.06)
+### [GPT-2 Transformer 구현 및 분산 학습](https://github.com/jiseokson/MyGPT-2) (2025.03 - 2025.06)
 - GPT-2 모델 구조 PyTorch 구현
 - DDP 기반 단일 노드 멀티 GPU 분산 학습 구현
 - LAMBADA 16.03% 달성 (GPT-2 small 대비 약 1/3)
 
-### [PagedAttention 기반 LLM 서빙 시스템 설계·구현](https://github.com/jiseokson/PageBrain) (2025.01 - 2026.12)
+### [PagedAttention 기반 LLM 서빙 시스템 설계·구현](https://github.com/jiseokson/PageBrain) (2025.01 - 2025.12)
 - KV cache 관리 및 요청 batching 구조 구현
 - GPT-2 기반 자체 서빙 시스템 통합
 - 동시 요청 처리 1,000 TPS 달성
