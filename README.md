@@ -30,7 +30,7 @@
 
 ### 회전근개파열 재발 및 임상 점수 예측, 재활 추천 시스템 (여의도 성모병원 협력) (2025.06 - 2026.03)
 - ARCR 환자 재파열 확률 및 임상 기능 점수 예측 모델 개발 (최대 83% 정확도)
-- [Projected Gradient Descent](https://arxiv.org/abs/2508.08856) 입력 최적화 기반 재활 추천 개발 및 개선 방향 제안
+- [Projected Gradient Descent](https://arxiv.org/abs/2209.10093) 입력 최적화 기반 재활 추천 개발 및 개선 방향 제안
 
 ### PU 학습 기반 Deformable DETR 객체 인식 (2025.04 ~ 2026.03)
 - [nnPU](https://arxiv.org/abs/1703.00593) 학습을 [Deformable DETR](https://arxiv.org/abs/2010.04159)에 통합
