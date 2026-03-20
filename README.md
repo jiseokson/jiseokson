@@ -28,6 +28,14 @@
 
 ## 🧪 Projects
 
+### 회전근개파열 재발 및 임상 점수 예측, 재활 추천 시스템 (여의도 성모병원 협력) (2025.06 - 2026.03)
+- ARCR 환자 재파열 확률 및 임상 기능 점수 예측 모델 개발 (최대 83% 정확도)
+- [Projected Gradient Descent](https://arxiv.org/abs/2508.08856) 입력 최적화 기반 재활 추천 개발 및 개선 방향 제안
+
+### PU 학습 기반 Deformable DETR 객체 인식 (2025.04 ~ 2026.03)
+- [nnPU](https://arxiv.org/abs/1703.00593) 학습을 [Deformable DETR](https://arxiv.org/abs/2010.04159)에 통합
+- 라벨 누락 환경에서 성능 개선 (PASCAL VOC 2007, 최대 6.15 mAP)
+
 ### [GPT-2 Transformer 구현 및 분산 학습](https://github.com/jiseokson/MyGPT-2) (2025.03 - 2025.06)
 - [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) 모델 구조 PyTorch 구현
 - DDP 기반 단일 노드 멀티 GPU 분산 학습 구현
@@ -37,14 +45,6 @@
 - KV cache 관리 및 요청 batching 구조 구현, [PagedAttention](https://arxiv.org/abs/2309.06180) 알고리즘 구현
 - GPT-2 기반 자체 서빙 시스템 통합
 - 동시 요청 처리 1,000 TPS 달성
-
-### 회전근개파열 재발 및 임상 점수 예측, 재활 추천 시스템 (여의도 성모병원 협력) (2025.06 - 2026.03)
-- ARCR 환자 재파열 확률 및 임상 기능 점수 예측 모델 개발 (최대 83% 정확도)
-- [Projected Gradient Descent](https://arxiv.org/abs/2508.08856) 입력 최적화 기반 재활 추천 개발 및 개선 방향 제안
-
-### PU 학습 기반 Deformable DETR 객체 인식 (2025.04 ~ 2026.03)
-- [nnPU](https://arxiv.org/abs/1703.00593) 학습을 [Deformable DETR](https://arxiv.org/abs/2010.04159)에 통합
-- 라벨 누락 환경에서 성능 개선 (PASCAL VOC 2007, 최대 6.15 mAP)
 
 ### [홍익대학교 대동제 홍보 웹사이트 (총학생회 협력)](https://github.com/2024HongikFestival/Festa-Server-Application) (2024.07 - 2024.09)
 - 백엔드 팀 리드
