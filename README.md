@@ -34,7 +34,7 @@
 
 ### PU 학습 기반 Deformable DETR 객체 인식 (2025.04 ~ 2026.03)
 - [nnPU](https://arxiv.org/abs/1703.00593) 학습을 [Deformable DETR](https://arxiv.org/abs/2010.04159)에 통합
-- 라벨 누락 환경에서 성능 개선 (PASCAL VOC 2007, 최대 6.15 mAP)
+- 라벨 누락 환경에서 성능 개선 (PASCAL VOC 2007, 최대 6.15 mAP 개선)
 
 ### [PagedAttention 기반 LLM 서빙 시스템 설계·구현](https://github.com/jiseokson/PageBrain) (2025.01 - 2025.12)
 - KV cache 관리 및 요청 batching 구조 구현, [PagedAttention](https://arxiv.org/abs/2309.06180) 알고리즘 구현
