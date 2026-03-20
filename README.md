@@ -36,15 +36,15 @@
 - [nnPU](https://arxiv.org/abs/1703.00593) 학습을 [Deformable DETR](https://arxiv.org/abs/2010.04159)에 통합
 - 라벨 누락 환경에서 성능 개선 (PASCAL VOC 2007, 최대 6.15 mAP)
 
-### [GPT-2 Transformer 구현 및 분산 학습](https://github.com/jiseokson/MyGPT-2) (2025.03 - 2025.06)
-- [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) 모델 구조 PyTorch 구현
-- DDP 기반 단일 노드 멀티 GPU 분산 학습 구현
-- [LAMBADA](https://arxiv.org/abs/1606.06031) 16.03% 달성 (GPT-2 small 대비 약 1/3)
-
 ### [PagedAttention 기반 LLM 서빙 시스템 설계·구현](https://github.com/jiseokson/PageBrain) (2025.01 - 2025.12)
 - KV cache 관리 및 요청 batching 구조 구현, [PagedAttention](https://arxiv.org/abs/2309.06180) 알고리즘 구현
 - GPT-2 기반 자체 서빙 시스템 통합
 - 동시 요청 처리 1,000 TPS 달성
+
+### [GPT-2 Transformer 구현 및 분산 학습](https://github.com/jiseokson/MyGPT-2) (2025.03 - 2025.06)
+- [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) 모델 구조 PyTorch 구현
+- DDP 기반 단일 노드 멀티 GPU 분산 학습 구현
+- [LAMBADA](https://arxiv.org/abs/1606.06031) 16.03% 달성 (GPT-2 small 대비 약 1/3)
 
 ### [홍익대학교 대동제 홍보 웹사이트 (총학생회 협력)](https://github.com/2024HongikFestival/Festa-Server-Application) (2024.07 - 2024.09)
 - 백엔드 팀 리드
