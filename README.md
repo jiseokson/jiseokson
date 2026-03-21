@@ -48,7 +48,7 @@
 
 ### [홍익대학교 대동제 홍보 웹사이트 (총학생회 협력)](https://github.com/2024HongikFestival/Festa-Server-Application) (2024.07 - 2024.09)
 - 백엔드 팀 리드
-- Kakao OAuth2.0-OIDC 기반 인증 및 중복 방지 구현
+- Kakao OAuth2.0·OIDC 기반 인증 및 중복 방지 구현
 - SSE 기반 실시간 상호작용 및 부정 사용자 대응
 
 ## 🤝 Leadership & Experience
