@@ -14,6 +14,7 @@
 ## 🎓 Education
 - 홍익대학교 컴퓨터공학 공학사 (2020 - 2026)  
   GPA: 4.34 / 4.5
+  Dean’s List (2023)
 
 ## 📜 Certifications
 - OPIc Intermediate High (2026.01)
