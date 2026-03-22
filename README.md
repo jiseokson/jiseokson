@@ -1,5 +1,5 @@
 <h1 align="center">손지석, Jiseok Son</h1>
-<p align="center">Software Engineer, Machine Learning</p>
+<p align="center">Software Engineer, Machine Learning, LLM</p>
 
 ## 📌 Profile
 데이터를 기반으로 문제를 정의하고 실험과 구현을 통해 성능 개선을 만들어내는 ML 엔지니어입니다.  
