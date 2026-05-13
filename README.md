@@ -21,7 +21,7 @@
 - SQLD (2023.10)
 
 ## 🏆 Activities & Awards
-### LG AI연구원 Aimers 8기 (EXAONE 경량화 해커톤) 본선 진출 (2026.02 - 진행 중)
+### LG AI연구원 Aimers 8기 (EXAONE 경량화 해커톤) 본선 진출 (2026.02 - 2026.04)
 
 ### 홍익대학교 AISLAB 학부 연구생 (2025.04 - 2026.03)
 - 의료 AI 및 Computer Vision 연구 수행
